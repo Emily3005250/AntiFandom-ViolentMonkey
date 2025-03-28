@@ -9,7 +9,7 @@
 // @grant        GM_xmlhttpRequest
 // @connect      *
 // @run-at       document-start
-// @license      MIT
+// @license      CC0-1.0 license
 // ==/UserScript==
 
 (function () {
